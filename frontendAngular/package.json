@@ -1,0 +1,15 @@
+{
+  "name": "frontendangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {
+    "tailwind": "tailwindcss -i ./src/input.css -o ./public/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
